@@ -4,6 +4,9 @@ this my **First** *project*
 2. commit
 3. push
 
-http://github.com
+
 http://github.com - automatic!
+
 [This is my link](http://github.com)
+
+http://github.com
